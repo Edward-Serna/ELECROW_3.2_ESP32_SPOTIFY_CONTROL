@@ -92,7 +92,7 @@ This project was intentionally built from scratch to understand the fundamentals
 ### 2. Clone and configure
 
 ```bash
-git clone https://github.com/your-username/ELECROW_3.2_ESP32_APP.git
+git clone git@github.com:Edward-Serna/ELECROW_3.2_ESP32_SPOTIFY_CONTROL.git
 cd ELECROW_3.2_ESP32_APP
 ```
 
